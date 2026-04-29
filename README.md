@@ -8,7 +8,7 @@ I use this GitHub to document engineering projects, simulations, experiments, an
 
 ### Multi-Layer Exhaust Heat Transfer
 Simulation + experimental validation of a multi-layer exhaust system  
-[View Project](https://github.com/yourusername/multi-layer-exhaust-heat-transfer)
+[View Project](https://github.com/Nwyetholiver/multi-layer-exhaust-heat-transfer)
 
 ## Skills
 SolidWorks | MATLAB | Python | Arduino | FEA | CFD | Heat Transfer | Manufacturing
