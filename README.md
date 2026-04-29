@@ -4,11 +4,11 @@ Mechanical engineering student interested in CAD, thermal systems, manufacturing
 
 I use this GitHub to document engineering projects, simulations, experiments, and design work. Each project includes the objective, tools used, design process, results, and key takeaways.
 
-## Featured Projects
-- Thermal / CFD project
-- CAD reverse engineering project
-- Data analysis / sensor project
-- Manufacturing or redesign project
+## 🔧 Featured Projects
+
+### Multi-Layer Exhaust Heat Transfer
+Simulation + experimental validation of a multi-layer exhaust system  
+[View Project](https://github.com/yourusername/multi-layer-exhaust-heat-transfer)
 
 ## Skills
 SolidWorks | MATLAB | Python | Arduino | FEA | CFD | Heat Transfer | Manufacturing
