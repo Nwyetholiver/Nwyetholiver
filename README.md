@@ -13,6 +13,10 @@ I use this GitHub to document engineering projects, simulations, experiments, an
 ## Skills
 SolidWorks | MATLAB | Python | Arduino | FEA | CFD | Heat Transfer | Manufacturing
 
+
+### 🔥 Exhaust Thermal Experiment
+3D printed muffler + real-world thermal validation  
+[View Project](https://github.com/yourusername/exhaust-muffler-thermal-test)
 <!--
 **Nwyetholiver/Nwyetholiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
